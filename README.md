@@ -1,13 +1,21 @@
+home:https://github.com/user-attachments/assets/57e2a562-691b-4b77-8bbc-7c121393d279
+
 
 addproduct-https://github.com/user-attachments/assets/5e7a154b-4b27-475b-8db3-62d58982ffb4
 
 
 
-addproductview:https://github.com/user-attachments/assets/b605298f-df70-46ab-a52f-29c8f8ee7dda
+addproductview:https://github.com/user-attachments/assets/1b303a76-8dd9-4a1d-9c9b-f06018ed6885
 
-deleteprodujct-https://github.com/user-attachments/assets/1ac2bbe3-7365-42ea-b5f3-328f02ce6e71
 
-deleteproductview-https://github.com/user-attachments/assets/46f3e2f6-0fc6-4d81-85cd-695f13f9af3f
+
+
+deleteprodujct-https://github.com/user-attachments/assets/67ce3ad6-44a0-4cfc-99f4-bf1e5a9ca9a3
+
+
+
+deleteproductview-https://github.com/user-attachments/assets/db95e974-58e7-4d75-bbc0-dab4151ef00d
+
 
 updateproduct-https://github.com/user-attachments/assets/399a16db-3e3b-43fe-9437-a0b82f746acd
 
