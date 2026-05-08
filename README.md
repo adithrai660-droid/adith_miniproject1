@@ -26,11 +26,15 @@ after_deleteproductview(productlist)-https://github.com/user-attachments/assets/
 updateproduct-https://github.com/user-attachments/assets/42d32448-f2c2-46f1-bf2d-b6474926f1ac
 
 
-updateproduct(1):https://github.com/user-attachments/assets/58b34f50-6d3f-4188-9b6a-211217e79683
+updateproduct(1):https://github.com/user-attachments/assets/ace6042a-ad79-40d5-9ea4-fee17d778e44
 
 
 
-after_updateprodujctview(productlist)-https://github.com/user-attachments/assets/1ba4cf70-18a0-4d06-be71-c92e4c435dcc
+
+
+after_updateprodujctview(productlist)-https://github.com/user-attachments/assets/87e85c27-c109-4463-970b-959c9c0cf652
+
+
 
 
 
@@ -38,7 +42,9 @@ report_byAboveprice -https://github.com/user-attachments/assets/84662798-ac51-48
 
 
 
-report_byAboveprice_result-https://github.com/user-attachments/assets/e16ab73b-7e23-4b64-8f89-9147988e5193
+report_byAboveprice_result-https://github.com/user-attachments/assets/594b4f76-1b4e-4185-b16a-0c3195a52288
+
+
 
 
 
@@ -53,8 +59,9 @@ report-https://github.com/user-attachments/assets/2bc5b77f-33ee-46d8-b398-7797a6
 
 
 
- viewproduct-https://github.com/user-attachments/assets/4e92feb9-8a65-419e-9339-db83898d258f
+ viewproduct-https://github.com/user-attachments/assets/d91676af-4a84-4882-b27a-8f75408bdc17
  
+
 
  
 
