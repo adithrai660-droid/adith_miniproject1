@@ -13,11 +13,14 @@ after_addproduct(productlist):https://github.com/user-attachments/assets/aedaaed
 
 
 
-deleteprodujct-https://github.com/user-attachments/assets/67ce3ad6-44a0-4cfc-99f4-bf1e5a9ca9a3
+deleteprodujct-https://github.com/user-attachments/assets/34cce193-b766-40fb-9c78-4f631b1b34df
 
 
 
-after_deleteproductview(productlist)-https://github.com/user-attachments/assets/db95e974-58e7-4d75-bbc0-dab4151ef00d
+
+after_deleteproductview(productlist)-https://github.com/user-attachments/assets/6a8945f3-2faa-4188-ab24-8ed3b7a6ed8c
+
+
 
 
 updateproduct-https://github.com/user-attachments/assets/42d32448-f2c2-46f1-bf2d-b6474926f1ac
