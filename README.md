@@ -1,4 +1,3 @@
-<img width="1920" height="1080" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/ac310b31-cbff-49d1-bd46-4fb801f4b6aa" />homepage_op_link-https://github.com/user-attachments/assets/e5eb8bb5-9217-4ab0-ad52-b76e3fb9a848
 
 1a)addproduct-https://github.com/user-attachments/assets/e868d695-101c-4142-882c-66bc7c87e7da
 
