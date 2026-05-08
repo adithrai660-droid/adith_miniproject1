@@ -1,5 +1,7 @@
 
-addproduct-https://github.com/user-attachments/assets/e868d695-101c-4142-882c-66bc7c87e7da
+addproduct-https://github.com/user-attachments/assets/5e7a154b-4b27-475b-8db3-62d58982ffb4
+
+
 
 addproductview:https://github.com/user-attachments/assets/b605298f-df70-46ab-a52f-29c8f8ee7dda
 
