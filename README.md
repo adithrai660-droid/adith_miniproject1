@@ -1,11 +1,14 @@
 home_op:https://github.com/user-attachments/assets/57e2a562-691b-4b77-8bbc-7c121393d279
 
 
-addproduct-https://github.com/user-attachments/assets/5e7a154b-4b27-475b-8db3-62d58982ffb4
+addproduct-https://github.com/user-attachments/assets/46163564-8033-4857-8ce0-31f251d23a66
 
 
 
-after_addproduct:https://github.com/user-attachments/assets/1b303a76-8dd9-4a1d-9c9b-f06018ed6885
+
+
+after_addproduct(productlist):https://github.com/user-attachments/assets/aedaaedb-aa78-43ca-a896-7e9b2286fcf3
+
 
 
 
@@ -14,7 +17,7 @@ deleteprodujct-https://github.com/user-attachments/assets/67ce3ad6-44a0-4cfc-99f
 
 
 
-after_deleteproductview-https://github.com/user-attachments/assets/db95e974-58e7-4d75-bbc0-dab4151ef00d
+after_deleteproductview(productlist)-https://github.com/user-attachments/assets/db95e974-58e7-4d75-bbc0-dab4151ef00d
 
 
 updateproduct-https://github.com/user-attachments/assets/42d32448-f2c2-46f1-bf2d-b6474926f1ac
@@ -24,7 +27,7 @@ updateproduct(1):https://github.com/user-attachments/assets/58b34f50-6d3f-4188-9
 
 
 
-after_updateprodujct_view-https://github.com/user-attachments/assets/1ba4cf70-18a0-4d06-be71-c92e4c435dcc
+after_updateprodujctview(productlist)-https://github.com/user-attachments/assets/1ba4cf70-18a0-4d06-be71-c92e4c435dcc
 
 
 
